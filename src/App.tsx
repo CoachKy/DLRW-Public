@@ -8,8 +8,8 @@ function App() {
       <section className="relative flex items-center justify-center h-screen bg-cover bg-center" style={{ backgroundImage: "url('/thorne_veerika.png')" }}>
         <div className="absolute inset-0 bg-black bg-opacity-60 z-0"></div>
         <div className="text-center px-4 z-10">
-          <img src="/logo.png" alt="Darkened Light Logo" className="mx-auto mb-10 h-120 md:h-120 w-auto drop-shadow-xl" />
-          <p className="text-xl italic">When Realm sleeps, the light must rebuild itself.</p>
+          <img src="/logo.png" alt="Darkened Light Logo" className="mx-auto mb-10 h-90 md:h-90 w-auto drop-shadow-xl" />
+          <label className="text-xl italic">When Realm sleeps, the light must rebuild itself.</label>
         </div>
       </section>
 

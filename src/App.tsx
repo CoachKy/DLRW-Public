@@ -8,8 +8,7 @@ function App() {
       <section className="relative flex items-center justify-center h-screen bg-cover bg-center" style={{ backgroundImage: "url('/thorne_veerika.png')" }}>
         <div className="absolute inset-0 bg-black bg-opacity-60 z-0"></div>
         <div className="text-center px-4 z-10">
-          <img src="/logo.png" alt="Darkened Light Logo" className="mx-auto mb-6 h-20 w-auto" />
-          <h1 className="text-5xl font-bold mb-4">Darkened Light: Realm Wars™</h1>
+          <img src="/logo.png" alt="Darkened Light Logo" className="mx-auto mb-10 h-32 md:h-48 w-auto drop-shadow-xl" />
           <p className="text-xl italic">When the Realm sleeps, the light darkens...</p>
         </div>
       </section>
